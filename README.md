@@ -84,8 +84,4 @@ I'm Edward — a passionate **full-stack developer** with a background in hospit
 
 ---
 
-### Contribution
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EoCiMrEo" alt="GitHub Streak" /></a>
-
----
 > 💡 *Thanks for visiting! Feel free to connect, collaborate, or just say hi.*
