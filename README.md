@@ -43,11 +43,18 @@ I'm Edward — a passionate **full-stack developer** with a background in hospit
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=EdwardPhuong&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=EdwardPhuong&bg_color=1a1b27&color=9ae5ff&line=00cfff&point=ffffff&area=true&hide_border=true" />
+  </a>
 </p>
 
 ---
@@ -77,4 +84,8 @@ I'm Edward — a passionate **full-stack developer** with a background in hospit
 
 ---
 
+### Contribution
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EoCiMrEo" alt="GitHub Streak" /></a>
+
+---
 > 💡 *Thanks for visiting! Feel free to connect, collaborate, or just say hi.*
