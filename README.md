@@ -47,13 +47,13 @@ I'm Edward — a passionate **full-stack developer** with a background in hospit
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=EdwardPhuong&theme=tokyonight&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=EoCiMrEo&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=EdwardPhuong&bg_color=1a1b27&color=9ae5ff&line=00cfff&point=ffffff&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=EoCiMrEo&bg_color=1a1b27&color=9ae5ff&line=00cfff&point=ffffff&area=true&hide_border=true" />
   </a>
 </p>
 
