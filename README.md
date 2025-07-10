@@ -13,7 +13,7 @@
 
 ### 🌟 About Me
 
-I'm Edward — a passionate **full-stack developer** with a background in hospitality IT and a vision to build secure, scalable, and human-centered applications.
+I'm Edward — a passionate **IT guy** with a background in cybersecurity and experience in hospitality and a vision to build secure, scalable, and human-centered applications.
 
 - 🎓 Currently pursuing my CS Master’s at **Mercy University**  
 - 🧑‍💻 Former **IT Specialist at Le Méridien (Marriott Corp)**  
