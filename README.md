@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://edwardphuong-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
   <a href="https://www.linkedin.com/in/phuluongphuong/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YourUsername&style=for-the-badge&color=blue" alt="profile views" />
 </p>
 
 ---
