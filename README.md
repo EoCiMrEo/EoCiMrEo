@@ -47,7 +47,8 @@ I'm Edward — a passionate **IT guy** with a background in cybersecurity and ex
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=EoCiMrEo&theme=tokyonight&hide_border=true" />
+<!--     <img src="https://streak-stats.demolab.com?user=EoCiMrEo&theme=tokyonight&hide_border=true" /> -->
+    [![GitHub Streak](https://streak-stats.demolab.com?user=EdwardPhuong&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
   </a>
 </p>
 
