@@ -81,7 +81,7 @@ I'm always happy to team up on:
 - Raspberry Pi + mobile apps
 - Full-stack web platforms
 
-Reach out via [LinkedIn](https://www.linkedin.com/in/phuluongphuong/) or [email](mailto:eocimreo@gmail.com)!
+Reach out via [LinkedIn](https://www.linkedin.com/in/phuluongphuong/) or [Email](mailto:eocimreo@gmail.com)!
 
 ---
 
