@@ -24,6 +24,13 @@ I'm Edward — a passionate **IT guy** with a background in cybersecurity and ex
 
 ---
 
+### 🧠 Currently Learning
+- Advanced Kubernetes & Docker orchestration
+- Cybersecurity Labs & Ethical Hacking
+- Swift + IoT integration for smart devices
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -46,7 +53,9 @@ I'm Edward — a passionate **IT guy** with a background in cybersecurity and ex
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EoCiMrEo&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=EoCiMrEo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
@@ -63,6 +72,16 @@ I'm Edward — a passionate **IT guy** with a background in cybersecurity and ex
 - 🧠 In my free time, I practice **ethical hacking**, do **CTFs**, and explore infosec communities.
 - 🎮 I unwind with survival and strategy games like **Minecraft** and **Oxygen Not Included**.
 - ✨ I enjoy helping others grow, collaborating on open-source, and always learning something new.
+
+---
+
+### 🤝 Open to Collaborate
+I'm always happy to team up on:
+- Open-source security tools
+- Raspberry Pi + mobile apps
+- Full-stack web platforms
+
+Reach out via [LinkedIn](https://www.linkedin.com/in/phuluongphuong/) or [email](mailto:your@email.com)!
 
 ---
 
