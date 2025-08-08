@@ -28,14 +28,14 @@ I'm Edward — a passionate **IT guy** with a background in cybersecurity and ex
 - Advanced Kubernetes & Docker orchestration
 - Cybersecurity Labs & Ethical Hacking
 - Swift + IoT integration for smart devices
-
+- Automation Development
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,swift,kotlin" alt="Languages" /><br>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,swift" alt="Languages" /><br>
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" /><br>
   <!-- Backend -->
