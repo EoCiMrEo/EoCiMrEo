@@ -1,7 +1,7 @@
 <!-- README.md for GitHub Profile -->
 
 <h1 align="center">Hi there 👋, I'm Edward Phuong</h1>
-<h3 align="center">A former IT Specialist @ Le Méridien (Marriott), and now I'm a CS Graduate Student</h3>
+<h3 align="center">MS-CS @ Mercy | IT Specialist | Teaching Assistant | Automation Developer</h3>
 
 <p align="center">
   <a href="https://edwardphuong-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
