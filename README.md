@@ -17,18 +17,11 @@ I'm Edward — a passionate **IT guy** with a background in cybersecurity and ex
 
 - 🎓 Currently pursuing my CS Master’s at **Mercy University**  
 - 🧑‍💻 Former **IT Specialist at Le Méridien (Marriott Corp)**  
-- 🧰 I build **websites, mobile apps, and desktop tools** from scratch  
-- ⚙️ I speak both backend and frontend fluently (and a bit of DevOps too!)  
-- 🔐 I love diving into **cybersecurity & ethical hacking** as a hobby  
-- 💬 My motto: *“Everything can be learned. Nothing is impossible. Growing together is better than going alone.”*
+- 🧰 I build **websites, mobile apps, and desktop tools** from scratch
 
 ---
 
 ### 🧠 Currently Learning
-- Advanced Kubernetes & Docker orchestration
-- Cybersecurity Labs & Ethical Hacking
-- Swift + IoT integration for smart devices
-- Automation Development
 ---
 
 ### 🛠️ Tech Stack
@@ -68,19 +61,13 @@ I'm Edward — a passionate **IT guy** with a background in cybersecurity and ex
 
 ### 😄 A Bit More About Me
 
-- 🛠 I love **tinkering with Raspberry Pi**, building IoT systems, and automating home devices.
-- 🧠 In my free time, I practice **ethical hacking**, do **CTFs**, and explore infosec communities.
 - 🎮 I unwind with survival and strategy games like **Minecraft** and **Oxygen Not Included**.
 - ✨ I enjoy helping others grow, collaborating on open-source, and always learning something new.
 
 ---
 
 ### 🤝 Open to Collaborate
-I'm always happy to team up on:
-- Open-source security tools
-- Raspberry Pi + mobile apps
-- Full-stack web platforms
-
+I'm always happy to team up !
 Reach out via [LinkedIn](https://www.linkedin.com/in/phuluongphuong/) or [Email](mailto:eocimreo@gmail.com)!
 
 ---
